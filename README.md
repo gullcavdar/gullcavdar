@@ -2,7 +2,7 @@
 
 <img src="https://media.giphy.com/media/giKklFontfveZrNXjz/giphy.gif" align="right" with="400" height="250">
 
-### Hi there, I'm Gül 👋
+### Hi, I'm Gül 👋
 
 ## Software Developer
 
