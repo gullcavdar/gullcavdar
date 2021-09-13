@@ -17,7 +17,7 @@
 [<img height="24" width="24" align= "center" src="img/email.png"/>](mailto:cavdargul@gmail.com)
 
 <br/>
-<p align="left" > <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gullcavdar" alt="gullcavdar" /></a> </p>
+<!---<p align="left" > <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gullcavdar" alt="gullcavdar" /></a> </p> --->
 
 
 ### Tech I use
