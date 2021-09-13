@@ -17,7 +17,7 @@
 [<img height="24" width="24" align= "center" src="img/email.png"/>](mailto:cavdargul@gmail.com)
 
 <br/>
-<p align="center" > <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gullcavdar" alt="gullcavdar" /></a> </p>
+<p align="left" > <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gullcavdar" alt="gullcavdar" /></a> </p>
 
 
 ### Tech I use
@@ -47,7 +47,7 @@
  
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gullcavdar&show_icons=true&theme=radical&locale=en&layout=compact" alt="gullcavdar" /></p>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=gullcavdar&count_private=true" alt="gullcavdar" width="50%" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gullcavdar&count_private=true" alt="gullcavdar" width="50%" /></p>
  
  
  
