@@ -4,6 +4,7 @@
         <samp>&gt; Hello World!, I am Gül!
         </samp>
 </h3>
+<br>
 
 <!-- Social icons section -->
   <p align="center">
