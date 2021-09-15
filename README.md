@@ -65,8 +65,8 @@
     <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="gullcavdar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=gullcavdar&theme=radical&hide_border=true&background=000000"/>
   </a>
 </p>
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="gullcavdar's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=gullcavdar&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="gullcavdar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gullcavdar&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/></a>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="gullcavdar's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=gullcavdar&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px" width="500px"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="gullcavdar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gullcavdar&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px" width="400px"/></a>
 <br/>
 <br/>
 <!-- Footer -->
