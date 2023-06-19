@@ -20,14 +20,6 @@
         <a href="https://medium.com/@gullcavdar" target="_blank"><img alt="Medium"
                 src="https://img.shields.io/badge/Medium-%23000000.svg?logo=Medium&logoColor=white">
         </a>
-        <!-- Twitter -->
-        <a href="https://twitter.com/iamrosellaa" target="_blank"><img alt="Twitter"
-                src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white">
-        </a>
-        <!-- Instagram -->
-        <a href="https://www.instagram.com/gullcavdar/" target="_blank"><img alt="Instagram"
-                src="https://img.shields.io/badge/-Instagram-E4405F?logo=Instagram&logoColor=white">
-        </a>
     </p>
 
 
